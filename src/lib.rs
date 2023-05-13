@@ -8,7 +8,6 @@ use std::{
 // I dont get why people have like 5 files with 20 lines in it each (i dont have a repo that match the description trust me bro)
 // Sorry if my code sucks. I dont even have the mental capacity of an 18 year old human
 pub struct Reqdata {
-    pub FormMap: HashMap<String, String>,
     pub HttpVer: String,
     pub Method: String,
     pub Path: String,
